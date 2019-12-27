@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/http": "^0.8.5"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }        
+}
